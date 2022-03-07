@@ -2,3 +2,15 @@
 Ans :
 
 SDLC means Software Development Life Cycle
+It Involves in the whole process of Software Development 
+and It has 6 Phases
+
+1. Requirements Analysis Phase
+2. Design Phase
+3. Implementation and Unit Testing Phase
+4. Testing Phase
+5. Deployment Phase
+6. Maintainence Phase
+
+
+

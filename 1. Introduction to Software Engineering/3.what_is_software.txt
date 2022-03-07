@@ -1,0 +1,31 @@
+What is Software ?
+Ans :
+Software, instructions that tell a computer what to do. 
+Software comprises the entire set of programs, procedures,
+and routines associated with the operation of a computer system.
+The term was coined to differentiate these instructions from hardware—i.e., 
+the physical components of a computer system.
+
+Computer Software was developed to make the efficieny use of bianry 
+to Instruct the hardware to perform the meaningful tasks of a computer system.
+
+Why Computer Software ?
+The Computer hardware Cannot think and make his own decisions
+So it cannot be used only hardware
+To Perform Specific Task We need computer software to instruct the hardware
+
+Examples of Computer Software :
+1. Computer Games
+2. Drivers Software
+3. Education Software
+4. Media Players
+5. Producitvy Software
+6. Operating System Software Windows , Linux , MAC OS X
+
+Software Engineering
+Definition: Software engineering is a detailed study of engineering to the design,
+development and maintenance of software
+------------OR------------------
+Software Engineering is defined as establishment and application of sound engineering principles
+for obtaining an economically feasible and reliable software that can run efficiently
+on any real-time machine.
