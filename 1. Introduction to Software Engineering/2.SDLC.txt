@@ -1,0 +1,4 @@
+1. What is SDLC ?
+Ans :
+
+SDLC means Software Development Life Cycle

@@ -1,0 +1,10 @@
+1. What are the factors for System Modeling ?
+Ans :
+The factors for System Modeling Should be taken by the Developer are the factors for
+1. Assumption
+2. Limitations
+3. Constraints
+4. Preference
+5. Simplification
+
+
