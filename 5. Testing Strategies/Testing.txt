@@ -1,0 +1,48 @@
+Software Testing is a type of investigation to find out if there is any default or error present in the software so that the errors can be reduced or removed to increase the quality of the software and to check whether it fulfills the specifies requirements or not.
+
+
+According to Glen Myers, software testing has the following objectives:
+
+The process of investigating and checking a program to find whether there is an error or not and does it fulfill the requirements or not is called testing.
+When the number of errors found during the testing is high, it indicates that the testing was good and is a sign of good test case.
+Finding an unknown error that’s wasn’t discovered yet is a sign of a successful and a good test case.
+
+
+The main objective of software testing is to design the tests in such a way that it systematically finds different types of errors without taking much time and effort so that less time is required for the development of the software.
+
+The overall strategy for testing software includes:
+
+
+
+
+
+Before testing starts, it’s necessary to identify and specify the requirements of the product in a quantifiable manner.
+Different characteristics quality of the software is there such as maintainability that means the ability to update and modify, the probability that means to find and estimate any risk, and usability that means how it can easily be used by the customers or end-users. All these characteristic qualities should be specified in a particular order to obtain clear test results without any error.
+
+
+Specifying the objectives of testing in a clear and detailed manner.
+Several objectives of testing are there such as effectiveness that means how effectively the software can achieve the target, any failure that means inability to fulfill the requirements and perform functions, and the cost of defects or errors that mean the cost required to fix the error. All these objectives should be clearly mentioned in the test plan.
+
+
+For the software, identifying the user’s category and developing a profile for each user.
+Use cases describe the interactions and communication among different classes of users and the system to achieve the target. So as to identify the actual requirement of the users and then testing the actual use of the product.
+
+
+Developing a test plan to give value and focus on rapid-cycle testing.
+Rapid Cycle Testing is a type of test that improves quality by identifying and measuring the any changes that need to be required for improving the process of software. Therefore, a test plan is an important and effective document that helps the tester to perform rapid cycle testing.
+
+
+Robust software is developed that is designed to test itself.
+The software should be capable of detecting or identifying different classes of errors. Moreover, software design should allow automated and regression testing which tests the software to find out if there is any adverse or side effect on the features of software due to any change in code or program.
+
+
+Before testing, using effective formal reviews as a filter.
+Formal technical reviews is technique to identify the errors that are not discovered yet. The effective technical reviews conducted before testing reduces a significant amount of testing efforts and time duration required for testing software so that the overall development time of software is reduced.
+
+
+Conduct formal technical reviews to evaluate the nature, quality or ability of the test strategy and test cases.
+The formal technical review helps in detecting any unfilled gap in the testing approach. Hence, it is necessary to evaluate the ability and quality of the test strategy and test cases by technical reviewers to improve the quality of software.
+
+
+For the testing process, developing a approach for the continuous development.
+As a part of a statistical process control approach, a test strategy that is already measured should be used for software testing to measure and control the quality during the development of software.
